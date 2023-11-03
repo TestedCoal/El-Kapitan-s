@@ -26,7 +26,7 @@
 
 			<div class="form-floating mb-3">
 			  <input name="password_retype" type="password" class="form-control" id="floatingPassword"placeholder="Retype Password">
-			  <label for="floatingPassword">Retype Password</label>
+			  <label for="floatingPassword">Retype Passworda</label>
 			</div>
 
 			<br>
