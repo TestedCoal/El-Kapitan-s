@@ -16,11 +16,11 @@
 			
 			<div class="form-floating mb-3">
 			  <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
-			  <label for="floatingEmail" class="form-label">Email adadaaddress</label>
+			  <label for="floatingEmail" class="form-label">Email address</label>
 			</div>
 
 			<div class="form-floating mb-3">
-				<input name="password" type="password" class="form-control" id="floatingPasswords" placeholder="Password">
+				<input name="password" type="password" class="form-control" id="floatingPassword" placeholder="Password">
 				<label for="floatingPassword">Password</label>
 			</div>
 
